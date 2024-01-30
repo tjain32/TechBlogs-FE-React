@@ -2,7 +2,13 @@
 ### Forum-App-React-Frontend 
 
 
-React client that consumes the API: `https://github.com/tjain32/discussion_backend`
+React client that consumes the API: `https://github.com/tjain32/TechBlogs-BE-Go`
+
+# Sample Design 
+
+![alt text](https://github.com/tjain32/TechBlogs-FE-React/blob/main/public/Sample-UI.png?raw=true)
+
+
 
 ## Getting Started
 
